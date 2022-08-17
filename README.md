@@ -9,4 +9,4 @@
 **NOT: Benzer adımlar ikinci taskta da benzer şekilde oluşturuldu ve senaryo çalıştırıldıktan sonra istenilen hedefe ulaşıldı.**
 
 ## UYARI!
-**ChromeDriver'dan kaynaklanabilecek version farklılıklarından dolayı projenin çalıştığını gösteren youtube video linki-->** [Youtube Video Linki]()  <br/><br/>
+**ChromeDriver'dan kaynaklanabilecek version farklılıklarından dolayı projenin çalıştığını gösteren youtube video linki-->** [Youtube Video Linki](https://youtu.be/MXHIU2BMoNA)  <br/><br/>
