@@ -1,0 +1,218 @@
+[
+  {
+    "source": "^Misafir kullanici olarak odeme adimina ilerlenir$",
+    "steps": [
+      {
+        "name": "Misafir kullanici olarak odeme adimina ilerlenir",
+        "aggregatedDurations": {
+          "average": 5.6352154,
+          "median": 5.6352154
+        },
+        "durations": [
+          {
+            "duration": 5.6352154,
+            "location": "src/test/java/search.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^En ucuzun adedi iki yapilir$",
+    "steps": [
+      {
+        "name": "En ucuzun adedi iki yapilir",
+        "aggregatedDurations": {
+          "average": 1.8472089,
+          "median": 1.8472089
+        },
+        "durations": [
+          {
+            "duration": 1.8472089,
+            "location": "src/test/java/search.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Yorum sirasina gore sirala secilir$",
+    "steps": [
+      {
+        "name": "Yorum sirasina gore sirala secilir",
+        "aggregatedDurations": {
+          "average": 2.2565147,
+          "median": 2.2565147
+        },
+        "durations": [
+          {
+            "duration": 2.2565147,
+            "location": "src/test/java/search.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Son urun sepete eklenir$",
+    "steps": [
+      {
+        "name": "Son urun sepete eklenir",
+        "aggregatedDurations": {
+          "average": 5.8033304,
+          "median": 5.8033304
+        },
+        "durations": [
+          {
+            "duration": 5.8033304,
+            "location": "src/test/java/search.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Onaylama butonlarını kabul et$",
+    "steps": [
+      {
+        "name": "Onaylama butonlarını kabul et",
+        "aggregatedDurations": {
+          "average": 6.866642,
+          "median": 6.866642
+        },
+        "durations": [
+          {
+            "duration": 6.866642,
+            "location": "src/test/java/search.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Product icin arama buttona tiklanir$",
+    "steps": [
+      {
+        "name": "Product icin arama buttona tiklanir",
+        "aggregatedDurations": {
+          "average": 2.4327161,
+          "median": 2.4327161
+        },
+        "durations": [
+          {
+            "duration": 2.4327161,
+            "location": "src/test/java/search.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Ucretsiz kargo secenegi secilir$",
+    "steps": [
+      {
+        "name": "Ucretsiz kargo secenegi secilir",
+        "aggregatedDurations": {
+          "average": 2.8235355,
+          "median": 2.8235355
+        },
+        "durations": [
+          {
+            "duration": 2.8235355,
+            "location": "src/test/java/search.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Testin basarili olduguna dair mesaj yazilir$",
+    "steps": [
+      {
+        "name": "Testin basarili olduguna dair mesaj yazilir",
+        "aggregatedDurations": {
+          "average": 0.0001463,
+          "median": 0.0001463
+        },
+        "durations": [
+          {
+            "duration": 0.0001463,
+            "location": "src/test/java/search.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Sepete gidilir$",
+    "steps": [
+      {
+        "name": "Sepete gidilir",
+        "aggregatedDurations": {
+          "average": 7.5724392,
+          "median": 7.5724392
+        },
+        "durations": [
+          {
+            "duration": 7.5724392,
+            "location": "src/test/java/search.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Ilk urun sepete eklenir$",
+    "steps": [
+      {
+        "name": "Ilk urun sepete eklenir",
+        "aggregatedDurations": {
+          "average": 4.7656047,
+          "median": 4.7656047
+        },
+        "durations": [
+          {
+            "duration": 4.7656047,
+            "location": "src/test/java/search.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Websiteye gidilir$",
+    "steps": [
+      {
+        "name": "Websiteye gidilir",
+        "aggregatedDurations": {
+          "average": 19.3225345,
+          "median": 19.3225345
+        },
+        "durations": [
+          {
+            "duration": 19.3225345,
+            "location": "src/test/java/search.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Search Box \"([^\"]*)\" yazilir$",
+    "steps": [
+      {
+        "name": "Search Box \"kulaklık\" yazilir",
+        "aggregatedDurations": {
+          "average": 0.1431895,
+          "median": 0.1431895
+        },
+        "durations": [
+          {
+            "duration": 0.1431895,
+            "location": "src/test/java/search.feature:5"
+          }
+        ]
+      }
+    ]
+  }
+]

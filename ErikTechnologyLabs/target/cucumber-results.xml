@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="59.469077">
+<testcase classname="Erik Technology Labs Search" name="Search Page Scenario" time="59.469077">
+<system-out><![CDATA[Given Websiteye gidilir.....................................................passed
+And Onaylama butonlarını kabul et...........................................passed
+And Search Box "kulaklık" yazilir...........................................passed
+And Product icin arama buttona tiklanir.....................................passed
+And Yorum sirasina gore sirala secilir......................................passed
+And Ucretsiz kargo secenegi secilir.........................................passed
+And Ilk urun sepete eklenir.................................................passed
+And Son urun sepete eklenir.................................................passed
+And Sepete gidilir..........................................................passed
+And En ucuzun adedi iki yapilir.............................................passed
+When Misafir kullanici olarak odeme adimina ilerlenir.......................passed
+Then Testin basarili olduguna dair mesaj yazilir............................passed
+]]></system-out>
+</testcase>
+</testsuite>
